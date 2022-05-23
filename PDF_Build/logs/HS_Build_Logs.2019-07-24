@@ -1,0 +1,97 @@
+2019-07-24 09:34:21,257 - HS_Build_Logs - INFO  - app.py - app: main: 18 - STARTING THE HS BUILD APPLICATION
+2019-07-24 09:34:27,237 - HS_Build_Logs - INFO  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 302 - READING NEW EMAIL
+2019-07-24 09:34:27,239 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 35 - Mail Sender: Proj Numb Notification
+2019-07-24 09:34:27,247 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 37 - Mail Sub: Q3_2019 1-6QUXH4L ELLI_NY CTT0030846
+2019-07-24 09:34:31,074 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 80 - Mail Mnemonic: ELLI_NY
+2019-07-24 09:34:31,075 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 103 - Mail date: 2019-07-
+2019-07-24 09:34:31,075 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 186 - Mail Solution: None
+2019-07-24 09:34:31,075 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 270 - Mail PNs: 10436708,
+2019-07-24 09:34:31,076 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 304 - Time Sort: 2019-07-23 01:29:14+00:00 2019-07-23 22:39:03+00:00
+2019-07-24 09:34:42,887 - HS_Build_Logs - ERROR  - pm_utils.py - pm_utils: pdf_extractor: 243 - PDF was not read - text was empty
+2019-07-24 09:34:43,165 - HS_Build_Logs - ERROR  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 389 - Site URL is none - PDF was not uploaded
+2019-07-24 09:34:44,030 - HS_Build_Logs - INFO  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 302 - READING NEW EMAIL
+2019-07-24 09:34:44,031 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 35 - Mail Sender: Proj Numb Notification
+2019-07-24 09:34:44,035 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 37 - Mail Sub: Q3_2019 1-6Q5W8YD  
+2019-07-24 09:34:47,351 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 80 - Mail Mnemonic: USAL_AL
+2019-07-24 09:34:47,352 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 103 - Mail date: 2019-07-
+2019-07-24 09:34:47,353 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 186 - Mail Solution: None
+2019-07-24 09:34:47,354 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 270 - Mail PNs: ,
+2019-07-24 09:34:47,362 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 304 - Time Sort: 2019-07-23 01:29:14+00:00 2019-07-23 20:22:51+00:00
+2019-07-24 09:34:48,501 - HS_Build_Logs - ERROR  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 326 - PDF was not read - PDF should not be uploaded
+2019-07-24 09:34:48,579 - HS_Build_Logs - ERROR  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 389 - Site URL is none - PDF was not uploaded
+2019-07-24 09:34:49,642 - HS_Build_Logs - INFO  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 302 - READING NEW EMAIL
+2019-07-24 09:34:49,650 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 35 - Mail Sender: Proj Numb Notification
+2019-07-24 09:34:49,657 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 37 - Mail Sub: Q3_2019 1-6P462WJ  
+2019-07-24 09:34:52,842 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 80 - Mail Mnemonic: USAL_AL
+2019-07-24 09:34:52,842 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 103 - Mail date: 2019-07-
+2019-07-24 09:34:52,842 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 186 - Mail Solution: None
+2019-07-24 09:34:52,842 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 270 - Mail PNs: ,
+2019-07-24 09:34:52,845 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 304 - Time Sort: 2019-07-23 01:29:14+00:00 2019-07-23 20:13:05+00:00
+2019-07-24 09:34:53,914 - HS_Build_Logs - ERROR  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 326 - PDF was not read - PDF should not be uploaded
+2019-07-24 09:34:53,996 - HS_Build_Logs - ERROR  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 389 - Site URL is none - PDF was not uploaded
+2019-07-24 09:34:55,078 - HS_Build_Logs - INFO  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 302 - READING NEW EMAIL
+2019-07-24 09:34:55,078 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 35 - Mail Sender: Proj Numb Notification
+2019-07-24 09:34:55,082 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 37 - Mail Sub: Q3_2019 1-6OBV13U BMMC_NY CTT0030813
+2019-07-24 09:34:58,345 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 80 - Mail Mnemonic: BMMC_NY
+2019-07-24 09:34:58,345 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 103 - Mail date: 2019-07-
+2019-07-24 09:34:58,345 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 186 - Mail Solution: None
+2019-07-24 09:34:58,345 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 270 - Mail PNs: 10436624,
+2019-07-24 09:34:58,348 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 304 - Time Sort: 2019-07-23 01:29:14+00:00 2019-07-23 19:24:43+00:00
+2019-07-24 09:35:12,849 - HS_Build_Logs - ERROR  - pm_utils.py - pm_utils: pdf_extractor: 243 - PDF was not read - text was empty
+2019-07-24 09:35:12,949 - HS_Build_Logs - ERROR  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 389 - Site URL is none - PDF was not uploaded
+2019-07-24 09:35:14,493 - HS_Build_Logs - INFO  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 302 - READING NEW EMAIL
+2019-07-24 09:35:14,532 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 35 - Mail Sender: Proj Numb Notification
+2019-07-24 09:35:14,538 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 37 - Mail Sub: Q3_2019 1-6O038M4 REGL_TN SRN Financials Upg 10436622
+2019-07-24 09:35:18,202 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 80 - Mail Mnemonic: REGL_TN
+2019-07-24 09:35:18,203 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 103 - Mail date: 2019-06-
+2019-07-24 09:35:18,249 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 162 - Mail Solution: HS-UpgradesSoarian,HS-Clinical
+2019-07-24 09:35:18,256 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 270 - Mail PNs: 10436622,
+2019-07-24 09:35:18,260 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 304 - Time Sort: 2019-07-23 01:29:14+00:00 2019-07-23 18:53:31+00:00
+2019-07-24 09:35:23,975 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 94 - Pdf Date: None
+2019-07-24 09:35:23,975 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 108 - Pdf Client Name: Shelby County
+2019-07-24 09:35:23,979 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 181 - Pdf Solution: None
+2019-07-24 09:35:23,979 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 202 - Pdf Quantity: None
+2019-07-24 09:35:23,980 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 214 - Pdf Customer Number: None
+2019-07-24 09:35:23,980 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 230 - Pdf Client Number: None
+2019-07-24 09:35:24,073 - HS_Build_Logs - ERROR  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 389 - Site URL is none - PDF was not uploaded
+2019-07-24 09:35:25,942 - HS_Build_Logs - INFO  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 302 - READING NEW EMAIL
+2019-07-24 09:35:25,964 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 35 - Mail Sender: Proj Numb Notification
+2019-07-24 09:35:25,969 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 37 - Mail Sub: Q3_2019 1-6QXWF5M FAMC_CA IT Outsourcing 10436621
+2019-07-24 09:35:29,633 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 80 - Mail Mnemonic: FAMC_CA
+2019-07-24 09:35:29,634 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 103 - Mail date: 2019-07-
+2019-07-24 09:35:29,649 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 162 - Mail Solution: IT
+2019-07-24 09:35:29,650 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 270 - Mail PNs: 10436621,
+2019-07-24 09:35:29,657 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 304 - Time Sort: 2019-07-23 01:29:14+00:00 2019-07-23 18:37:49+00:00
+2019-07-24 09:35:40,841 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 91 - Pdf Date: 2019-07-
+2019-07-24 09:35:40,841 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 108 - Pdf Client Name: Fairchild
+2019-07-24 09:35:40,852 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 157 - Pdf Solution: SC
+2019-07-24 09:35:40,852 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 202 - Pdf Quantity: None
+2019-07-24 09:35:40,852 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 211 - Pdf Customer Number: 690180
+2019-07-24 09:35:40,852 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 230 - Pdf Client Number: None
+2019-07-24 09:35:40,855 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: create_path_for_pdf: 325 - Upload site: https://cernerprod.sharepoint.com/sites/FAIRCHILD_MEDICAL_CENTER
+2019-07-24 09:35:40,855 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: create_path_for_pdf: 326 - Folder name: 2019-07-10436621,IT
+2019-07-24 09:35:40,952 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 386 - FILE UPLOADED TO UPLOAD PDF FOLDER
+2019-07-24 09:35:41,845 - HS_Build_Logs - INFO  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 302 - READING NEW EMAIL
+2019-07-24 09:35:41,846 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 35 - Mail Sender: Proj Numb Notification
+2019-07-24 09:35:41,853 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 37 - Mail Sub: Q3_2019 1-6Q2NKIK MSHA_TN ConsultingRegulatory 10436619
+2019-07-24 09:35:45,490 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 80 - Mail Mnemonic: MSHA_TN
+2019-07-24 09:35:45,491 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 103 - Mail date: 2019-06-
+2019-07-24 09:35:45,514 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 162 - Mail Solution: Regulatory
+2019-07-24 09:35:45,515 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 270 - Mail PNs: 10436619,
+2019-07-24 09:35:45,519 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 304 - Time Sort: 2019-07-23 01:29:14+00:00 2019-07-23 18:17:51+00:00
+2019-07-24 09:35:47,705 - HS_Build_Logs - ERROR  - pm_utils.py - pm_utils: pdf_extractor: 243 - PDF was not read - text was empty
+2019-07-24 09:35:47,819 - HS_Build_Logs - ERROR  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 389 - Site URL is none - PDF was not uploaded
+2019-07-24 09:35:48,669 - HS_Build_Logs - INFO  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 302 - READING NEW EMAIL
+2019-07-24 09:35:48,670 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 35 - Mail Sender: Proj Numb Notification
+2019-07-24 09:35:48,693 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 37 - Mail Sub: Q3_2019 1-6QWQSOY CHE_PA CTT0030768
+2019-07-24 09:35:52,180 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 80 - Mail Mnemonic: CHE_PA
+2019-07-24 09:35:52,182 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 103 - Mail date: 2019-07-
+2019-07-24 09:35:52,182 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 186 - Mail Solution: None
+2019-07-24 09:35:52,182 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: mail_reader: 270 - Mail PNs: 10436573,
+2019-07-24 09:35:52,189 - HS_Build_Logs - DEBUG  - outlook_mail_reader.py - outlook_mail_reader: execute_component: 304 - Time Sort: 2019-07-23 01:29:14+00:00 2019-07-23 01:29:14+00:00
+2019-07-24 09:35:56,864 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 91 - Pdf Date: 2019-07-
+2019-07-24 09:35:56,865 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 108 - Pdf Client Name: Trinity
+2019-07-24 09:35:56,875 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 157 - Pdf Solution: SC
+2019-07-24 09:35:56,875 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 202 - Pdf Quantity: None
+2019-07-24 09:35:56,875 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 214 - Pdf Customer Number: None
+2019-07-24 09:35:56,876 - HS_Build_Logs - DEBUG  - pm_utils.py - pm_utils: pdf_extractor: 230 - Pdf Client Number: None

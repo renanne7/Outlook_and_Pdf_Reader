@@ -1,0 +1,9 @@
+dateparser
+PyPDF2
+tabula
+pyjarowinkler
+python-dateutil
+requests
+pandas
+wand
+scripts
